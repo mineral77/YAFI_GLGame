@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "YAFI_GL.data.unityweb",
+"asmCodeUrl": "YAFI_GL.asm.code.unityweb",
+"asmMemoryUrl": "YAFI_GL.asm.memory.unityweb",
+"asmFrameworkUrl": "YAFI_GL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
